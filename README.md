@@ -5,6 +5,10 @@
 💬 Ask me about Linux and Containers
 
 📫 How to reach me: **mathias.rangger@gmail.com**
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mathiasrangger/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mathias.rangger@gmail.com)
+
 <!--
 **mrangger/mrangger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
